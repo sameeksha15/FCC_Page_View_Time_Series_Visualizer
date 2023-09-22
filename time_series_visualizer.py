@@ -28,7 +28,7 @@ def draw_line_plot():
 
     fig = fig.figure
     # Save image and return fig (don't change this part)
-    fig.savefig('line_plot.png')
+    fig.savefig('img/line_plot.png')
     return fig
 
 def draw_bar_plot():
@@ -54,7 +54,7 @@ def draw_bar_plot():
     
     # Save image and return fig (don't change this part)
     fig = fig.figure
-    fig.savefig('bar_plot.png')
+    fig.savefig('img/bar_plot.png')
     return fig
 
 def draw_box_plot():
@@ -84,5 +84,5 @@ def draw_box_plot():
 
     # Save image and return fig (don't change this part)
     fig = fig.figure
-    fig.savefig('box_plot.png')
+    fig.savefig('img/box_plot.png')
     return fig

@@ -76,7 +76,7 @@ Page View Time Series Visualization Project for FCC Data Analysis with Python Ce
 1. Line plot of "Daily freeCodeCamp Forum Page Views 5/2016-12/2019"
 <br/>
 
-[![LinePlot.png](line_plot.png)]()
+[![LinePlot.png](img/line_plot.png)]()
 
 <br/>
 <br/>
@@ -84,7 +84,7 @@ Page View Time Series Visualization Project for FCC Data Analysis with Python Ce
 2. Bar plot of "Average daily page views for each month"
 <br/>
 
-[![BarPlot.png](bar_plot.png)]()
+[![BarPlot.png](img/bar_plot.png)]()
 
 <br/>
 <br/>
@@ -92,4 +92,4 @@ Page View Time Series Visualization Project for FCC Data Analysis with Python Ce
 3. "Year-wise Box Plot (Trend)" and "Month-wise Box Plot (Seasonality)"
 <br/>
 
-[![BoxPlot.png](box_plot.png)]()
+[![BoxPlot.png](img/box_plot.png)]()
